@@ -1,6 +1,5 @@
 # DRformer
 
----
 
 🚧 This project is under preparation.  
 📦 Full training code, model architecture, and pretrained weights will be released soon.
@@ -17,8 +16,6 @@ We provide pretrained weights for DRformer trained on several benchmark datasets
 
 - **SRD 256×256**[📥Google Drive]()
 -->
-
----
 
 ## 🧪 Test Results
 
