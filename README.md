@@ -1,7 +1,6 @@
 # DRFormer
 
-🚧 This project is under preparation.  
-📦 Full training code, model architecture, and pretrained weights will be released soon.
+🚧 This project is under preparation.
 
 ## 🧠 Pretrained Weights
 
